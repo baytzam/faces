@@ -42,6 +42,7 @@
 [Агалар Ашурбеков](#агалар-ашурбеков) | Казань/Дагестан | 1991 | КубГТУ | Frontend-разработчик | 08.03.2021 |
 [Айдар Фатхутдинов](#айдар-фатхутдинов) | Башкортостан | 1994 | УГАТУ | iOS-разработка | 06.03.2021 |
 [Геннадий Муталибов](#геннадий-муталибов) | Стаханов/ЛНР | 1982 | Нет | Front-end | 08.03.2021 |
+[Замир Байтищев](#замир-байтищев) | ХМАО | 1988 | ТГУ | Front-end | 11.03.2021 |
 [Джавид Рашидов](#джавид-рашидов) | Дагестан | 1994 | ДГУ | Front-end | 08.03.2021 |
 [Илез Курскиев](#илез-курскиев) | Ингушетия | 1996 | ПГЛУ | Senior Frontend Developer | 08.03.2021 |
 [Иса Эзербаев](#иса-эзербаев) | Чечня | 1997 | ГГНТУ | Backend (Python/Django) Developer | 07.03.2021 |
@@ -132,9 +133,25 @@
 - [Website](http://webworkertrue.ru)
 - [Facebook](https://www.facebook.com/gmutalibov/)
 
+### Замир Байтищев
+
+Технологии:
+- HTML
+- CSS/SCSS
+- JavaScript (React, Vue)
+- NodeJS
+- Typescript
+
+Контакты:
+
+- [Telegram](https://t.me/iamzamir)
+- [LinkedIn](https://www.linkedin.com/in/zamir-baytischev-191839164/)
+- [GitHub](https://github.com/baytzam)
+
 Резюме:
 
-- [HeadHunter](https://hh.ru/resume/075fc1f3ff078a56d30039ed1f614475687a78)
+- [HeadHunter](https://hh.ru/resume/1a443d72ff03d0fbc20039ed1f4e4e744f7a69)
+- [Хабр Карьера](https://career.habr.com/baytzam)
 
 ### Джавид Рашидов
 
